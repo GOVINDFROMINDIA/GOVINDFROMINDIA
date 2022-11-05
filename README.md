@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm g()v1nd</h1>
 <h3 align="center">TRAVELLING FROM PAST TO FUTURE WITHOUT SMELLING PRESENT!</h3>
 
-- 🔭 I’m currently working on [Genesis](https://github.com/decentralised-everything)
-
+- 🔭 I’m currently working on::
+     - [Genesis](https://github.com/decentralised-everything)
+     - [CSI-SCT-SB](https://github.com/CSI-SCT-SB)
+     - [ADVANCED TRAFFIC SYSTEM](https://github.com/AI-ADVANCED-TRAFFIC-MANAGEMENT-SYSTEM) 
+     - [EarthEats](https://github.com/EarthEats)
 - 📫 How to reach me **govind123.ga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
