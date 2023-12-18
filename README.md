@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on::
      - [Genesis](https://github.com/decentralised-everything)
-     - [CSI-SCT-SB](https://github.com/CSI-SCT-SB)
-     - [ADVANCED TRAFFIC SYSTEM](https://github.com/AI-ADVANCED-TRAFFIC-MANAGEMENT-SYSTEM) 
-     - [EarthEats](https://github.com/EarthEats)
+
 - 📫 How to reach me **govind123.ga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
